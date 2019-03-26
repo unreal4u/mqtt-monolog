@@ -1,0 +1,11 @@
+{
+    "require": {
+        "php": ">=7.1",
+        "unreal4u/rpi-common-libraries": "^1.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "unreal4u\\mqttMonolog\\": "app"
+        }
+    }
+}
